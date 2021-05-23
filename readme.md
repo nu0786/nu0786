@@ -8,7 +8,7 @@ Prerequisites
 XAMPP (PHP/MySQL/Apache)
 Composer
 Installing
-1. git clone https://github.com/nu0786/Loan-Module.git
+1. git clone https://github.com/nu0786/nu0786.git
 2. composer install
 3. copy the .env file to the root of the folder
 4. create a mysql database with the same name as provided in .env file
